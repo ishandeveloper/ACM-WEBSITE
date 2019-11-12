@@ -73,3 +73,27 @@ border: 0;
   height: 463px;
   width: 100%;
 }
+.panel-events-12{
+  border-radius: 25px;
+    background-color: white;
+    border: none;
+    color: black;
+    height: 28rem;
+    width: 20rem
+}
+.panel-events-34{
+  border-radius: 25px;
+    background-color: white;
+    border: none;
+    color: black;
+    height: 26.2rem;
+    width: 20rem
+}
+.panel-events-56{
+  border-radius: 25px;
+    background-color: white;
+    border: none;
+    color: black;
+    height: 27.2rem;
+    width: 20rem
+}
